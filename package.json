@@ -2,7 +2,7 @@
   "devDependencies": {
     "@babel/cli": ">=7.14.8",
     "@babel/core": ">=7.14.8",
-    "@babel/preset-env": ">=7.14.8",
+    "@babel/preset-env": ">=7.15.0",
     "jest": ">=27.0.6",
     "jest-puppeteer": ">=5.0.4",
     "puppeteer": ">=9.1.1"
