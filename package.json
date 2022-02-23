@@ -2,8 +2,8 @@
   "name": "jest-with-puppeteer",
   "version": "0.0.1",
   "devDependencies": {
-    "@babel/cli": "7.17.0",
-    "@babel/core": "7.17.2",
+    "@babel/cli": "7.17.6",
+    "@babel/core": "7.17.5",
     "@babel/preset-env": "7.16.11",
     "jest": "27.5.1",
     "jest-puppeteer": "6.1.0",
